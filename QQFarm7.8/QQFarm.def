@@ -1,0 +1,12 @@
+; QQFarm.def : Declares the module parameters for the DLL.
+
+LIBRARY      "QQFarm"
+DESCRIPTION  'QQFarm Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
+		
+		CC_Plugindata					@1
+		CC_Plugininit					@2
+		CC_Pluginmenu					@3
+		CC_Pluginaction					@4

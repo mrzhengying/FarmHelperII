@@ -1,0 +1,276 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\QQPasture.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON    DISCARDABLE     "QQPasture.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DLG_MAIN DIALOG DISCARDABLE  0, 0, 505, 235
+STYLE WS_CHILD
+FONT 9, "宋体"
+BEGIN
+    LTEXT           "昵称:",IDC_STATIC,50,5,21,8
+    LTEXT           "金币:",IDC_STATIC,50,17,21,8
+    LTEXT           "等级:",IDC_STATIC,142,5,21,8
+    LTEXT           "经验:",IDC_STATIC,142,17,21,8
+    LTEXT           "饲料:",IDC_STATIC,204,5,21,8
+    LTEXT           "看守:",IDC_STATIC,204,17,21,8
+    CONTROL         "Progress1",IDC_PGS_UPLVLEXP,"msctls_progress32",
+                    PBS_SMOOTH | WS_BORDER,50,28,128,10
+    LTEXT           "100/100",IDC_MAIN_UPLVLEXP,190,29,56,8
+    CONTROL         "List1",IDC_MAIN_LANDS,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | WS_BORDER | WS_TABSTOP,7,43,236,167
+    CONTROL         "List2",IDC_MAIN_FRIENDS,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | WS_BORDER | WS_TABSTOP,250,7,248,203
+    LTEXT           "",IDC_MAIN_NAME,71,5,64,8
+    LTEXT           "",IDC_MAIN_GOLD,71,17,64,8
+    LTEXT           "",IDC_MAIN_LEVEL,163,5,35,8
+    LTEXT           "",IDC_MAIN_EXP,163,17,36,8
+    LTEXT           "",IDC_MAIN_ANIMALFOOD,226,5,18,8
+    LTEXT           "",IDC_MAIN_GUARD,226,17,18,8
+    CTEXT           "",IDC_MAIN_STATETEXT,308,218,150,8
+    LTEXT           "",IDC_MAIN_SCANPOS,461,218,37,8
+    PUSHBUTTON      "全局设置",IDC_MAIN_BTN_CONFIG,7,215,50,14
+    PUSHBUTTON      "查看背包",IDC_MAIN_BTN_SHOWPACKAGE,83,215,50,14
+    PUSHBUTTON      "查看仓库",IDC_MAIN_BTN_SHOWANIMALS,138,215,50,14
+    PUSHBUTTON      "刷新牧场",IDC_MAIN_BTN_MYPASTURE,193,215,50,14
+    PUSHBUTTON      "开始工作",IDC_MAIN_BTN_WORKING,250,215,50,14,NOT 
+                    WS_VISIBLE
+END
+
+IDD_DLG_CONFIG DIALOG DISCARDABLE  0, 0, 460, 359
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "全局配置"
+FONT 9, "宋体"
+BEGIN
+    LTEXT           "窝:",IDC_STATIC,115,106,13,8
+    GROUPBOX        "对自己",IDC_STATIC,7,7,221,48
+    CONTROL         "添加饲料",IDC_CFG_CHK_ADDFOOD,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,15,22,48,10
+    CONTROL         "购买动物",IDC_CFG_CHK_BUYANIMAL,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,99,22,48,10
+    CONTROL         "生产、收获",IDC_CFG_CHK_HARVEST,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,166,22,55,10
+    CONTROL         "拍蚊子、清粪便",IDC_CFG_CHK_CLEARBAD,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,15,37,72,10
+    CONTROL         "卖仓库收获",IDC_CFG_CHK_SALEANIMALS,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,99,37,56,10
+    CONTROL         "升级窝、棚",IDC_CFG_CHK_UPHOUSE,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,166,37,56,10
+    GROUPBOX        "对好友",IDC_STATIC,7,57,221,34
+    CONTROL         "生产、偷取",IDC_CFG_CHK_FRIEND_STEAL,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,15,72,56,10
+    CONTROL         "拍蚊子、清粪便",IDC_CFG_CHK_FRIEND_CLEARBAD,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,82,72,72,10
+    CONTROL         "有看守也偷",IDC_CHK_CFG_FRIEND_SAFETY,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,166,72,56,10
+    GROUPBOX        "买动物",IDC_STATIC,7,93,221,46
+    CONTROL         "最高等级",IDC_CFG_RAD_BUYANIMAL_HIGHER,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,16,114,48,10
+    CONTROL         "指定",IDC_CFG_RAD_BUYANIMAL_MYSEL,"Button",
+                    BS_AUTORADIOBUTTON,81,114,32,10
+    LTEXT           "棚:",IDC_STATIC,115,121,13,8
+    COMBOBOX        IDC_CFG_COMBO_WANIMALS,129,103,91,30,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_CFG_COMBO_PANIMALS,129,119,91,30,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "添加饲料",IDC_STATIC,7,182,221,36
+    LTEXT           "当饲料少于",IDC_STATIC,16,198,41,8
+    LTEXT           "时添加到",IDC_STATIC,101,198,33,8
+    LTEXT           "颗牧草",IDC_STATIC,179,198,25,8
+    EDITTEXT        IDC_CFG_EDIT_MINFOOD,60,196,37,13,ES_AUTOHSCROLL
+    EDITTEXT        IDC_CFG_EDIT_MAXFOOD,137,196,37,13,ES_AUTOHSCROLL
+    GROUPBOX        "其他设置",IDC_STATIC,7,220,221,96
+    COMBOBOX        IDC_CFG_COMBO_WANIMALID,7,340,48,30,CBS_DROPDOWNLIST | 
+                    NOT WS_VISIBLE | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_CFG_COMBO_PANIMALID,56,340,48,30,CBS_DROPDOWNLIST | 
+                    NOT WS_VISIBLE | WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "卖仓库收获规则",IDC_STATIC,234,7,219,268
+    LTEXT           "忽略等级低于",IDC_STATIC,15,235,49,8
+    EDITTEXT        IDC_CFG_EDIT_IGNORE,65,233,40,13,ES_AUTOHSCROLL | 
+                    ES_NUMBER
+    LTEXT           "级的好友",IDC_STATIC,107,235,33,8
+    LTEXT           "工作",IDC_STATIC,15,252,17,8
+    EDITTEXT        IDC_CFG_EDIT_WORKTIME,34,250,40,13,ES_AUTOHSCROLL | 
+                    ES_NUMBER
+    LTEXT           "分钟后休息",IDC_STATIC,75,252,41,8
+    EDITTEXT        IDC_CFG_EDIT_SLEEPTIME,119,250,40,13,ES_AUTOHSCROLL | 
+                    ES_NUMBER
+    LTEXT           "分钟再继续",IDC_STATIC,161,252,41,8
+    CONTROL         "List1",IDC_CFG_LIST_ANIMALS,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | WS_BORDER | WS_TABSTOP,241,21,206,213
+    LTEXT           "关键字:",IDC_STATIC,242,241,29,8
+    EDITTEXT        IDC_CFG_EDIT_KEYWORD,273,239,53,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "查找",IDC_CFG_BTN_FINDANIMAL,329,239,36,12
+    LTEXT           "当仓库动物数量达到",IDC_STATIC,241,258,73,8
+    EDITTEXT        IDC_CFG_EDIT_SALENUM,317,256,40,13,ES_AUTOHSCROLL | 
+                    ES_NUMBER
+    LTEXT           "时才卖",IDC_STATIC,360,258,25,8
+    PUSHBUTTON      "确定",IDC_CFG_BTN_OK,339,338,50,14
+    PUSHBUTTON      "取消",IDC_CFG_BTN_CANCEL,403,338,50,14
+    CTEXT           "",IDC_CFG_TEXT_HINT,114,344,212,8
+    GROUPBOX        "饲养",IDC_STATIC,7,141,221,38
+    CONTROL         "优先饲养背包里的动物",IDC_CFG_RAD_RAISE_ALLANIMAL,
+                    "Button",BS_AUTORADIOBUTTON | WS_GROUP,15,158,96,10
+    CONTROL         "饲养指定购买的动物",IDC_CFG_RAD_RAISE_BUYANIMAL,"Button",
+                    BS_AUTORADIOBUTTON,131,158,88,10
+END
+
+IDD_DLG_PACKAGE DIALOG DISCARDABLE  0, 0, 208, 267
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "背包"
+FONT 9, "宋体"
+BEGIN
+    CONTROL         "List1",IDC_PACK_ANIMALS,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | WS_BORDER | WS_TABSTOP,7,7,194,253
+END
+
+IDD_DLG_ANIMALS DIALOG DISCARDABLE  0, 0, 249, 291
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "仓库"
+FONT 9, "宋体"
+BEGIN
+    CONTROL         "List1",IDC_ANIMALS_ANIMALS,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | WS_BORDER | WS_TABSTOP,7,7,235,255
+    PUSHBUTTON      "卖出所有(未锁定的)",IDC_ANIMALS_SALEANIMALS,153,270,89,
+                    14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_DLG_MAIN, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 498
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 228
+    END
+
+    IDD_DLG_CONFIG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 453
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 352
+    END
+
+    IDD_DLG_PACKAGE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 201
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 260
+    END
+
+    IDD_DLG_ANIMALS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 242
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 284
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\QQPasture.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
