@@ -2,14 +2,14 @@
 
 <MLGB>
 	<Exe>				
-		<Version ver="3.3">
+		<Version ver="3.4">
 			<Name>炫舞皮卡丘</Name>
-			<MD5>1a011187d5ba3bdf084e06f11d2f0389</MD5>
+			<MD5>829d95c3fc8519e4d2af3bcf4380214f</MD5>
 			<Download>
-				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/3.3.exe</Url>
-				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/3.3.exe</Url>
-				<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/3.3.exe?raw=true</Url>
-				<Url>happyfool.net/ctrl/x5yf/3.3.exe</Url>
+				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/3.4.exe</Url>
+				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/3.4.exe</Url>
+				<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/3.4.exe?raw=true</Url>
+				<Url>happyfool.net/ctrl/x5yf/3.4.exe</Url>
 			</Download>
 			<Notes>更新说明：
 			1.开始上号后，按钮会显示停止上号
@@ -18,28 +18,29 @@
 			4.新增梦工厂每日任务
 			5.重写重置状态功能
 			6.双击可登录账号
+			7.重写时尚功能
 			</Notes>
 		</Version>
 	</Exe>
 
 	<Dll x5ver="4.2.3.0">
-		<Version ver="2.1">
+		<Version ver="2.2">
 			<FunDll>
-				<MD5>394fcc50220d51970f5223fec431a218</MD5>
+				<MD5>e5d147b74bfa9657d24e5cd1b4dbf72e</MD5>
 				<Download>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.3.0/fun2.1.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.3.0/fun2.1.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.3.0/fun2.1.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.3.0/fun2.1.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.3.0/fun2.2.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.3.0/fun2.2.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.3.0/fun2.2.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.3.0/fun2.2.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>d5f7ad92b451930b83764db502e0bf7c</MD5>
+				<MD5>bd8563123dde27380dd4db9b2c358e60</MD5>
 				<Download>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.3.0/login2.1.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.3.0/login2.1.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.3.0/login2.1.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.3.0/login2.1.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.3.0/login2.2.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.3.0/login2.2.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.3.0/login2.2.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.3.0/login2.2.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>更新说明：
@@ -66,11 +67,11 @@
 		
 		<File>
 			<Name>fashionmap.txt</Name>
-			<MD5>493a235dd44169a90201240e42ef7aac</MD5>
+			<MD5>99891b1af0c0e566a8ad82e6f7b1e334</MD5>
 			<Download>
-				<Url>happyfool.net/ctrl/x5yf/data/fashionmap1.dat</Url>
-				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/fashionmap1.dat</Url>
-				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/fashionmap1.dat</Url>
+				<Url>happyfool.net/ctrl/x5yf/data/fashionmap2.dat</Url>
+				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/fashionmap2.dat</Url>
+				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/fashionmap2.dat</Url>
 			</Download>
 		</File>
 		
