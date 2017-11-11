@@ -24,23 +24,23 @@
 	</Exe>
 
 	<Dll x5ver="4.2.3.0">
-		<Version ver="2.3">
+		<Version ver="2.4">
 			<FunDll>
-				<MD5>be67df0660e85f359154070e4b831e99</MD5>
+				<MD5>148556e7f51e2915702f8ca312423b1a</MD5>
 				<Download>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.3.0/fun2.3.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.3.0/fun2.3.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.3.0/fun2.3.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.3.0/fun2.3.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.3.0/fun2.4.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.3.0/fun2.4.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.3.0/fun2.4.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.3.0/fun2.4.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>3e92b836ad5a0ab1a4171753986a837e</MD5>
+				<MD5>9fc8da88502d6875111aebca02e9c5aa</MD5>
 				<Download>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.3.0/login2.3.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.3.0/login2.3.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.3.0/login2.3.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.3.0/login2.3.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.3.0/login2.4.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.3.0/login2.4.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.3.0/login2.4.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.3.0/login2.4.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>更新说明：
