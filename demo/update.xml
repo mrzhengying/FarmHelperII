@@ -105,11 +105,11 @@
 		
 		<File>
 			<Name>gameip.txt</Name>
-			<MD5>3ac41cc60b0a6ec7b2fb36dd732b1819</MD5>
+			<MD5>f2570b067fcf746dee98ead25df15702</MD5>
 			<Download>
-				<Url>happyfool.net/ctrl/x5yf/data/gameip.dat</Url>
-				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip.dat</Url>
-				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip.dat</Url>
+				<Url>happyfool.net/ctrl/x5yf/data/gameip1.dat</Url>
+				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip1.dat</Url>
+				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip1.dat</Url>
 			</Download>
 		</File>
 	</Data>
