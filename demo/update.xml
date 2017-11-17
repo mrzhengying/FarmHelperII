@@ -24,32 +24,28 @@
 	</Exe>
 
 	<Dll x5ver="4.2.5.0">
-		<Version ver="2.7">
+		<Version ver="2.8">
 			<FunDll>
-				<MD5>877bf113c2aacb207b93ec917dde06be</MD5>
+				<MD5>d50ce2bd8a373ca5457d18918eb0faca</MD5>
 				<Download>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.5.0/fun2.7.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.5.0/fun2.7.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.5.0/fun2.7.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.5.0/fun2.7.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.5.0/fun2.8.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.5.0/fun2.8.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.5.0/fun2.8.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.5.0/fun2.8.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>64576dd4287a44a199c35a3a4b9010a5</MD5>
+				<MD5>3e3e80ea81c514aab14a6649e836e935</MD5>
 				<Download>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.5.0/login2.7.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.5.0/login2.7.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.5.0/login2.7.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.5.0/login2.7.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.5.0/login2.8.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.5.0/login2.8.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.5.0/login2.8.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.5.0/login2.8.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>更新说明：
-			1.优化启动速度，需要开启黑屏优化选项
-			2.修复一些BUG
-			3.新增梦工厂每日任务
-			4.秘境可设置复活次数
-			5.秘境可设置开点券宝箱
-			6.家园、花园、宠物将同时处理
+			1.修复跨区宠物匹配不领取奖励
+			2.修复不领取活跃度奖励
 			</Notes>
 		</Version>
 	</Dll>
