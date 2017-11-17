@@ -28,6 +28,7 @@
 			<FunDll>
 				<MD5>d50ce2bd8a373ca5457d18918eb0faca</MD5>
 				<Download>
+					<Url>happyfool.net/ctrl/x5yf/4.2.5.0/fun2.8.dll</Url>
 					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.5.0/fun2.8.dll</Url>
 					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.5.0/fun2.8.dll</Url>
 					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.5.0/fun2.8.dll?raw=true</Url>
@@ -37,6 +38,7 @@
 			<LoginDll>
 				<MD5>3e3e80ea81c514aab14a6649e836e935</MD5>
 				<Download>
+					<Url>happyfool.net/ctrl/x5yf/4.2.5.0/login2.8.dll</Url>
 					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.5.0/login2.8.dll</Url>
 					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.5.0/login2.8.dll</Url>
 					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.5.0/login2.8.dll?raw=true</Url>
