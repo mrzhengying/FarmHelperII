@@ -24,25 +24,25 @@
 	</Exe>
 
 	<Dll x5ver="4.2.6.0">
-		<Version ver="3.0">
+		<Version ver="3.1">
 			<FunDll>
-				<MD5>7ceb0e27a66e57698e1a321d0decbcf6</MD5>
+				<MD5>fce42f59c7056dc12add82123f82187e</MD5>
 				<Download>
-					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/fun3.0.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/fun3.0.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/fun3.0.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.6.0/fun3.0.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/fun3.0.dll</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/fun3.1.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/fun3.1.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/fun3.1.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.6.0/fun3.1.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/fun3.1.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>c6ea81e271f02dbee11552cd63a1698f</MD5>
+				<MD5>08aac5e4dbb4468baf172262fe99f7c5</MD5>
 				<Download>
-					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/login3.0.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/login3.0.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/login3.0.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.6.0/login3.0.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/login3.0.dll</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/login3.1.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/login3.1.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/login3.1.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.6.0/login3.1.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/login3.1.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>更新说明：
