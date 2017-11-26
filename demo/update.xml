@@ -2,14 +2,15 @@
 
 <MLGB>
 	<Exe>				
-		<Version ver="3.4">
+		<Version ver="3.5">
 			<Name>炫舞皮卡丘</Name>
-			<MD5>829d95c3fc8519e4d2af3bcf4380214f</MD5>
+			<MD5>a8bb076241b5434b9401759d2212db2e</MD5>
 			<Download>
-				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/3.4.exe</Url>
-				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/3.4.exe</Url>
-				<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/3.4.exe?raw=true</Url>
-				<Url>happyfool.net/ctrl/x5yf/3.4.exe</Url>
+				<Url>happyfool.net/ctrl/x5yf/3.5.exe</Url>
+				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/3.5.exe</Url>
+				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/3.5.exe</Url>
+				<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/3.5.exe?raw=true</Url>
+				<Url>happyfool.net/ctrl/x5yf/3.5.exe</Url>
 			</Download>
 			<Notes>更新说明：
 			1.开始上号后，按钮会显示停止上号
