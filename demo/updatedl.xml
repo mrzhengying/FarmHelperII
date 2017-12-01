@@ -25,30 +25,30 @@
 	</Exe>
 
 	<Dll x5ver="4.2.6.0">
-		<Version ver="3.3">
+		<Version ver="3.4">
 			<FunDll>
-				<MD5>c342fee573c1ccce63097bcd5193cca6</MD5>
+				<MD5>03f3c63874a1b86cf661e4a3b82b7aea</MD5>
 				<Download>
-					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/fun3.3.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/fun3.3.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/fun3.3.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.6.0/fun3.3.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/fun3.3.dll</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/fun3.4.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/fun3.4.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/fun3.4.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.6.0/fun3.4.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/fun3.4.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>145a44fd6926a9b971c30497154e573a</MD5>
+				<MD5>1a4d90878f707cab6946830963f035a6</MD5>
 				<Download>
-					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/login3.3.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/login3.3.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/login3.3.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.6.0/login3.3.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/login3.3.dll</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/login3.4.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/login3.4.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/login3.4.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.6.0/login3.4.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/login3.4.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>更新说明：
-			1.修复跨区宠物匹配不领取奖励
-			2.修复不领取活跃度奖励
+			1.修复宠物扭蛋无法使用
+			2.宠物扭蛋抽到1天可兑换为奖券
 			</Notes>
 		</Version>
 	</Dll>
@@ -86,11 +86,11 @@
 		
 		<File>
 			<Name>item.dat</Name>
-			<MD5>1fa2bbf67551e564a6bf06690c102c35</MD5>
+			<MD5>f71f0ea7dd95ccf4ddc6ef2be64b72ff</MD5>
 			<Download>
-				<Url>happyfool.net/ctrl/x5yf/data/item.dat</Url>
-				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/item.dat</Url>
-				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/item.dat</Url>
+				<Url>happyfool.net/ctrl/x5yf/data/itemb1.dat</Url>
+				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/itemb1.dat</Url>
+				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/itemb1.dat</Url>
 			</Download>
 		</File>
 		
