@@ -2,15 +2,15 @@
 
 <MLGB>
 	<Exe>
-		<Version ver="3.7">
+		<Version ver="3.8">
 			<Name>炫舞匠心</Name>
-			<MD5>5e58718d2300056cf2e0a4c001d233e1</MD5>
+			<MD5>e54e6f1178b17e0869aa39f2a53e02b5</MD5>
 			<Download>
-				<Url>happyfool.net/ctrl/x5yf/u3.7.exe</Url>
-				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/u3.7.exe</Url>
-				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/u3.7.exe</Url>
-				<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/u3.7.exe?raw=true</Url>
-				<Url>happyfool.net/ctrl/x5yf/u3.7.exe</Url>
+				<Url>happyfool.net/ctrl/x5yf/u3.8.exe</Url>
+				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/u3.8.exe</Url>
+				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/u3.8.exe</Url>
+				<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/u3.8.exe?raw=true</Url>
+				<Url>happyfool.net/ctrl/x5yf/u3.8.exe</Url>
 			</Download>
 			<Notes>更新说明：
 			1.修复宠物扭蛋无法使用
@@ -20,25 +20,25 @@
 	</Exe>
 
 	<Dll x5ver="4.2.6.0">
-		<Version ver="3.4">
+		<Version ver="3.5">
 			<FunDll>
-				<MD5>03f3c63874a1b86cf661e4a3b82b7aea</MD5>
+				<MD5>ecd7eb6077c1daf63ccf14d945dfb8a3</MD5>
 				<Download>
-					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/fun3.4.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/fun3.4.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/fun3.4.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.6.0/fun3.4.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/fun3.4.dll</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/fun3.5.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/fun3.5.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/fun3.5.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.6.0/fun3.5.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/fun3.5.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>1a4d90878f707cab6946830963f035a6</MD5>
+				<MD5>1bfde78a14d4dc5a50779234d90de4b5</MD5>
 				<Download>
-					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/login3.4.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/login3.4.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/login3.4.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.6.0/login3.4.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/login3.4.dll</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/login3.5.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/login3.5.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/login3.5.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.6.0/login3.5.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/login3.5.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>更新说明：
