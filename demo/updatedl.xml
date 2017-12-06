@@ -25,30 +25,31 @@
 	</Exe>
 
 	<Dll x5ver="4.2.6.0">
-		<Version ver="3.5">
+		<Version ver="3.6">
 			<FunDll>
-				<MD5>ae890e3c3791cf5885250e2e3efb26ed</MD5>
+				<MD5>e5a4140729f7e1c0f9b702232b189eb6</MD5>
 				<Download>
-					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/fun3.5.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/fun3.5.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/fun3.5.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.6.0/fun3.5.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/fun3.5.dll</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/fun3.6.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/fun3.6.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/fun3.6.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.6.0/fun3.6.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/fun3.6.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>1bfde78a14d4dc5a50779234d90de4b5</MD5>
+				<MD5>039794d8cec171e232bf7c349da3e4d7</MD5>
 				<Download>
-					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/login3.5.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/login3.5.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/login3.5.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.6.0/login3.5.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/login3.5.dll</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/login3.6.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/login3.6.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.6.0/login3.6.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.6.0/login3.6.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.6.0/login3.6.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>更新说明：
 			1.修复宠物扭蛋无法使用
 			2.宠物扭蛋抽到1天可兑换为奖券
+			3.修复点券抽奖无法使用
 			</Notes>
 		</Version>
 	</Dll>
