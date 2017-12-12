@@ -2,24 +2,19 @@
 
 <MLGB>
 	<Exe>
-		<Version ver="3.6">
+		<Version ver="4.0">
 			<Name>炫舞匠心代练</Name>
-			<MD5>8ab8a614f271967c9b28e2dc4182caf1</MD5>
+			<MD5>e83b9d0bd68dac0b622757ce91799020</MD5>
 			<Download>
-				<Url>happyfool.net/ctrl/x5yf/d3.6.exe</Url>
-				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/d3.6.exe</Url>
-				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/d3.6.exe</Url>
-				<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/d3.6.exe?raw=true</Url>
-				<Url>happyfool.net/ctrl/x5yf/d3.6.exe</Url>
+				<Url>happyfool.net/ctrl/x5yf/d4.0.exe</Url>
+				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/d4.0.exe</Url>
+				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/d4.0.exe</Url>
+				<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/d4.0.exe?raw=true</Url>
+				<Url>happyfool.net/ctrl/x5yf/d4.0.exe</Url>
 			</Download>
 			<Notes>更新说明：
-			1.开始上号后，按钮会显示停止上号
-			2.宠物默认不使用点券
-			3.默认不开启跑环平魔
-			4.新增梦工厂每日任务
-			5.重写重置状态功能
-			6.双击可登录账号
-			7.重写时尚功能
+			1.修复XP系统无法正常使用
+			2.现在没有跑环了，已禁用该功能
 			</Notes>
 		</Version>
 	</Exe>
@@ -57,6 +52,33 @@
 			</Notes>
 		</Version>
 	</Dll>
+	
+	<TestDll x5ver="4.2.7.0">
+		<Version ver="3.9">
+			<FunDll>
+				<MD5>5308d59c1c18af97634136372c323199</MD5>
+				<Download>
+					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/fun3.9.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/fun3.9.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/fun3.9.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.7.0/fun3.9.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/fun3.9.dll</Url>
+				</Download>
+			</FunDll>
+			<LoginDll>
+				<MD5>87f98a04ce73d2407f19675bea96d7b9</MD5>
+				<Download>
+					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/login3.9.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/login3.9.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/login3.9.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.7.0/login3.9.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/login3.9.dll</Url>
+				</Download>
+			</LoginDll>
+			<Notes>
+			</Notes>
+		</Version>
+	</TestDll>
 
 	<Data>
 		<File>
@@ -111,11 +133,11 @@
 		
 		<File>
 			<Name>gameip.txt</Name>
-			<MD5>f2570b067fcf746dee98ead25df15702</MD5>
+			<MD5>00d5639fed80364a43a262704481bd22</MD5>
 			<Download>
-				<Url>happyfool.net/ctrl/x5yf/data/gameip1.dat</Url>
-				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip1.dat</Url>
-				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip1.dat</Url>
+				<Url>happyfool.net/ctrl/x5yf/data/gameip2.dat</Url>
+				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip2.dat</Url>
+				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip2.dat</Url>
 			</Download>
 		</File>
 	</Data>
