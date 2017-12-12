@@ -59,25 +59,25 @@
 	</Dll>
 	
 	<TestDll x5ver="4.2.7.0">
-		<Version ver="4.0">
+		<Version ver="4.2">
 			<FunDll>
-				<MD5>eb64a8f106e0b6b090b9ff9b90b181ad</MD5>
+				<MD5>6e4eba5959a40d4b78df7a325ddbe40f</MD5>
 				<Download>
-					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/fun4.0.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/fun4.0.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/fun4.0.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.7.0/fun4.0.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/fun4.0.dll</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/fun4.2.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/fun4.2.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/fun4.2.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.7.0/fun4.2.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/fun4.2.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>013586834f84d3c65278f0527c9b1c69</MD5>
+				<MD5>115f06e42bfccb978393ceac30f2fff2</MD5>
 				<Download>
-					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/login4.0.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/login4.0.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/login4.0.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.7.0/login4.0.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/login4.0.dll</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/login4.2.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/login4.2.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/login4.2.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.7.0/login4.2.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/login4.2.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>
