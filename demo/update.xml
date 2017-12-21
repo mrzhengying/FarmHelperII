@@ -2,15 +2,15 @@
 
 <MLGB>
 	<Exe>
-		<Version ver="4.1">
+		<Version ver="4.2">
 			<Name>炫舞匠心</Name>
-			<MD5>c9f8bdf7833a19a5626115aef9b37818</MD5>
+			<MD5>796aa9b9da5e0a704c7cb2c4bd437b44</MD5>
 			<Download>
-				<Url>happyfool.net/ctrl/x5yf/4.1.exe</Url>
-				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.1.exe</Url>
-				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.1.exe</Url>
-				<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.1.exe?raw=true</Url>
-				<Url>happyfool.net/ctrl/x5yf/4.1.exe</Url>
+				<Url>happyfool.net/ctrl/x5yf/4.2.exe</Url>
+				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.exe</Url>
+				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.exe</Url>
+				<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.exe?raw=true</Url>
+				<Url>happyfool.net/ctrl/x5yf/4.2.exe</Url>
 			</Download>
 			<Notes>
 			</Notes>
