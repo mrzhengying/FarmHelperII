@@ -18,25 +18,25 @@
 	</Exe>
 
 	<Dll x5ver="4.2.7.0">
-		<Version ver="4.4">
+		<Version ver="4.5">
 			<FunDll>
-				<MD5>da0b868db0a649549e1c025f08ab06a8</MD5>
+				<MD5>212b88de8d4ea1b77a38ef51d77108d9</MD5>
 				<Download>
-					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/fun4.4.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/fun4.4.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/fun4.4.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.7.0/fun4.4.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/fun4.4.dll</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/fun4.5.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/fun4.5.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/fun4.5.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.7.0/fun4.5.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/fun4.5.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>c2009f0713dfcc0d9dd5e6590c2edcbf</MD5>
+				<MD5>4dee74af5885e5410a19595293b724eb</MD5>
 				<Download>
-					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/login4.4.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/login4.4.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/login4.4.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.7.0/login4.4.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/login4.4.dll</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/login4.5.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/login4.5.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/login4.5.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.7.0/login4.5.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/login4.5.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>
