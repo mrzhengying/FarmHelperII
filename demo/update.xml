@@ -2,41 +2,41 @@
 
 <MLGB>
 	<Exe>
-		<Version ver="4.2">
+		<Version ver="4.3">
 			<Name>炫舞匠心</Name>
-			<MD5>796aa9b9da5e0a704c7cb2c4bd437b44</MD5>
+			<MD5>d3ef760f53c545aa03074b64c0b6f227</MD5>
 			<Download>
-				<Url>happyfool.net/ctrl/x5yf/4.2.exe</Url>
-				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.exe</Url>
-				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.exe</Url>
-				<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.exe?raw=true</Url>
-				<Url>happyfool.net/ctrl/x5yf/4.2.exe</Url>
+				<Url>happyfool.net/ctrl/x5yf/4.3.exe</Url>
+				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.exe</Url>
+				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.exe</Url>
+				<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.exe?raw=true</Url>
+				<Url>happyfool.net/ctrl/x5yf/4.3.exe</Url>
 			</Download>
 			<Notes>
 			</Notes>
 		</Version>
 	</Exe>
 
-	<Dll x5ver="4.2.7.0">
-		<Version ver="4.5">
+	<Dll x5ver="4.2.8.0">
+		<Version ver="4.7">
 			<FunDll>
-				<MD5>212b88de8d4ea1b77a38ef51d77108d9</MD5>
+				<MD5>a0d95200dfeb095a897794b8514b59e7</MD5>
 				<Download>
-					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/fun4.5.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/fun4.5.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/fun4.5.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.7.0/fun4.5.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/fun4.5.dll</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.8.0/fun4.7.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.8.0/fun4.7.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.8.0/fun4.7.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.8.0/fun4.7.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.8.0/fun4.7.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>4dee74af5885e5410a19595293b724eb</MD5>
+				<MD5>767eae4cba54eaec096fd6f9b49a84f6</MD5>
 				<Download>
-					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/login4.5.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/login4.5.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.7.0/login4.5.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.7.0/login4.5.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.7.0/login4.5.dll</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.8.0/login4.7.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.8.0/login4.7.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.8.0/login4.7.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.8.0/login4.7.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.8.0/login4.7.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>
@@ -129,6 +129,16 @@
 				<Url>happyfool.net/ctrl/x5yf/data/gameip3.dat</Url>
 				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip3.dat</Url>
 				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip3.dat</Url>
+			</Download>
+		</File>
+		
+		<File>
+			<Name>itemv2.dat</Name>
+			<MD5>3ca1bd210df8389fbf0a9ef54644a4dc</MD5>
+			<Download>
+				<Url>happyfool.net/ctrl/x5yf/data/itemv21.dat</Url>
+				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/itemv21.dat</Url>
+				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/itemv21.dat</Url>
 			</Download>
 		</File>
 	</Data>
