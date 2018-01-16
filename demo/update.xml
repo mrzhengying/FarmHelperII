@@ -2,14 +2,15 @@
 
 <MLGB>
 	<Exe>
-		<Version ver="4.4">
+		<Version ver="4.5">
 			<Name>炫舞匠心</Name>
-			<MD5>d72668318ec5c2c3761ab7a1913e752c</MD5>
+			<MD5>73d420b11b1db41fd2d31b460ac6008d</MD5>
 			<Download>
-				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.4.exe</Url>
-				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.4.exe</Url>
-				<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.4.exe?raw=true</Url>
-				<Url>happyfool.net/ctrl/x5yf/4.4.exe</Url>
+				<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.5.exe</Url>
+				<Url>happyfool.net/ctrl/x5yf/4.5.exe</Url>
+				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.5.exe</Url>
+				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.5.exe</Url>
+				<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.5.exe?raw=true</Url>
 			</Download>
 			<Notes>
 			</Notes>
@@ -43,26 +44,26 @@
 		</Version>
 	</Dll>
 	
-	<TestDll x5ver="4.2.8.0">
-		<Version ver="4.6">
+	<TestDll x5ver="4.2.9.0">
+		<Version ver="5.0">
 			<FunDll>
-				<MD5>fa5f06c6ab9dca59238d2b0ce64d11e9</MD5>
+				<MD5>b13fd8cf08b061f006915846d7fe8423</MD5>
 				<Download>
-					<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.2.8.0/fun4.6.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.8.0/fun4.6.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.8.0/fun4.6.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.8.0/fun4.6.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.8.0/fun4.6.dll</Url>
+					<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.2.9.0/fun5.0.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.9.0/fun5.0.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.9.0/fun5.0.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.9.0/fun5.0.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.9.0/fun5.0.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>29ec5dd73e4904afdb1b3bc9598341e4</MD5>
+				<MD5>4925c06563ecd2f9e5d0897baf76ed38</MD5>
 				<Download>
-					<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.2.8.0/login4.6.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.8.0/login4.6.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.8.0/login4.6.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.8.0/login4.6.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.8.0/login4.6.dll</Url>
+					<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.2.9.0/login5.0.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.9.0/login5.0.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.9.0/login5.0.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.9.0/login5.0.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.2.9.0/login5.0.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>
