@@ -17,26 +17,26 @@
 		</Version>
 	</Exe>
 
-	<Dll x5ver="4.2.8.0">
-		<Version ver="4.9">
+	<Dll x5ver="4.3.0.0">
+		<Version ver="5.1">
 			<FunDll>
-				<MD5>5dad583c242dd33d837a4820a21de02c</MD5>
+				<MD5>eb1ed4774815f4477862a3e3b0d327b0</MD5>
 				<Download>
-					<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.2.8.0/fun4.9.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.8.0/fun4.9.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.8.0/fun4.9.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.8.0/fun4.9.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.8.0/fun4.9.dll</Url>
+					<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.0.0/fun5.1.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.0.0/fun5.1.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.0.0/fun5.1.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.0.0/fun5.1.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.3.0.0/fun5.1.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>d0d84201678ab37b2446dc0a55418419</MD5>
+				<MD5>0edac85cc704d4a3d87ddbfc80b17b37</MD5>
 				<Download>
-					<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.2.8.0/login4.9.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.8.0/login4.9.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.2.8.0/login4.9.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.2.8.0/login4.9.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.2.8.0/login4.9.dll</Url>
+					<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.0.0/login5.1.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.0.0/login5.1.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.0.0/login5.1.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.0.0/login5.1.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.3.0.0/login5.1.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>
