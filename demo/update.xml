@@ -43,33 +43,34 @@
 			</Notes>
 		</Version>
 	</Dll>
-	<!--
-	<TestDll x5ver="4.3.1.0">
-		<Version ver="5.8">
+	
+	<TestDll x5ver="4.3.4.0">
+		<Version ver="6.3">
 			<FunDll>
-				<MD5>9732187df991d7661833e3847832b730</MD5>
+				<MD5>9de1e87b4f42d034b8740f2d539a9bc2</MD5>
 				<Download>
-					<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.1.0/fun5.8.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.1.0/fun5.8.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.1.0/fun5.8.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.1.0/fun5.8.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.3.1.0/fun5.8.dll</Url>
+					<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.4.0/fun6.3.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.4.0/fun6.3.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.4.0/fun6.3.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.4.0/fun6.3.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.3.4.0/fun6.3.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>6907a94a120b73d58a3aa41f3c72553b</MD5>
+				<MD5>5d08ad94aba0301292c2e506e2f07c0e</MD5>
 				<Download>
-					<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.1.0/login5.8.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.1.0/login5.8.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.1.0/login5.8.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.1.0/login5.8.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.3.1.0/login5.8.dll</Url>
+					<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.4.0/login6.3.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.4.0/login6.3.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.4.0/login6.3.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.4.0/login6.3.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.3.4.0/login6.3.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>
 			</Notes>
 		</Version>
 	</TestDll>
+	<!--
 	-->
 	<Data>
 		<File>
