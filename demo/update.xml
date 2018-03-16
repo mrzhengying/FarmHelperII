@@ -130,12 +130,12 @@
 		
 		<File>
 			<Name>gameip.txt</Name>
-			<MD5>f075f5c850c959fc189f430c720d5d09</MD5>
+			<MD5>16006f457648488174bb12fa089a0f7e</MD5>
 			<Download>
-				<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/data/gameip7.dat</Url>
-				<Url>happyfool.net/ctrl/x5yf/data/gameip7.dat</Url>
-				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip7.dat</Url>
-				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip7.dat</Url>
+				<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/data/gameip8.dat</Url>
+				<Url>happyfool.net/ctrl/x5yf/data/gameip8.dat</Url>
+				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip8.dat</Url>
+				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip8.dat</Url>
 			</Download>
 		</File>
 		
