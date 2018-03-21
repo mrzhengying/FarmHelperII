@@ -18,25 +18,25 @@
 	</Exe>
 
 	<Dll x5ver="4.3.5.0">
-		<Version ver="6.8">
+		<Version ver="6.9">
 			<FunDll>
-				<MD5>64bd58183002fc69bed0cbc914068fed</MD5>
+				<MD5>2037b8e2bc3cfb9a5ac72907a0441876</MD5>
 				<Download>
-					<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.5.0/fun6.8.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.5.0/fun6.8.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.5.0/fun6.8.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.5.0/fun6.8.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.3.5.0/fun6.8.dll</Url>
+					<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.5.0/fun6.9.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.5.0/fun6.9.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.5.0/fun6.9.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.5.0/fun6.9.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.3.5.0/fun6.9.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>cc648a06b0782875a4eb3a36a3757e41</MD5>
+				<MD5>f1304bbb8c764c64dd647bd549fdb394</MD5>
 				<Download>
-					<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.5.0/login6.8.dll</Url>
-					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.5.0/login6.8.dll</Url>
-					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.5.0/login6.8.dll</Url>
-					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.5.0/login6.8.dll?raw=true</Url>
-					<Url>happyfool.net/ctrl/x5yf/4.3.5.0/login6.8.dll</Url>
+					<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.5.0/login6.9.dll</Url>
+					<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.5.0/login6.9.dll</Url>
+					<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.5.0/login6.9.dll</Url>
+					<Url>github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.5.0/login6.9.dll?raw=true</Url>
+					<Url>happyfool.net/ctrl/x5yf/4.3.5.0/login6.9.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>
