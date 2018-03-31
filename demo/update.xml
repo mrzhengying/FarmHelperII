@@ -141,12 +141,12 @@
 		
 		<File>
 			<Name>itemv2.dat</Name>
-			<MD5>3ca1bd210df8389fbf0a9ef54644a4dc</MD5>
+			<MD5>9c550f035f65f9c04f7278cc1af5b059</MD5>
 			<Download>
-				<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/data/itemv21.dat</Url>
-				<Url>happyfool.net/ctrl/x5yf/data/itemv21.dat</Url>
-				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/itemv21.dat</Url>
-				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/itemv21.dat</Url>
+				<Url>gitee.com/mrzhengying/FarmHelperII/raw/master/demo/data/itemv22.dat</Url>
+				<Url>happyfool.net/ctrl/x5yf/data/itemv22.dat</Url>
+				<Url>nchc.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/itemv22.dat</Url>
+				<Url>jaist.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/itemv22.dat</Url>
 			</Download>
 		</File>
 		
