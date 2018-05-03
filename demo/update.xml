@@ -18,25 +18,25 @@
 	</Exe>
 
 	<Dll x5ver="4.3.6.0">
-		<Version ver="7.7">
+		<Version ver="7.8">
 			<FunDll>
-				<MD5>0f7d264f4f5beff2ab5caa37609f6407</MD5>
+				<MD5>05f80a8f7e59d933e3188fe8fda5f23e</MD5>
 				<Download>
-					<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.6.0/fun7.7.dll</Url>
-					<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.6.0/fun7.7.dll</Url>
-					<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.6.0/fun7.7.dll</Url>
-					<Url>https://github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.6.0/fun7.7.dll?raw=true</Url>
-					<Url>http://happyfool.net/ctrl/x5yf/4.3.6.0/fun7.7.dll</Url>
+					<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.6.0/fun7.8.dll</Url>
+					<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.6.0/fun7.8.dll</Url>
+					<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.6.0/fun7.8.dll</Url>
+					<Url>https://github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.6.0/fun7.8.dll?raw=true</Url>
+					<Url>http://happyfool.net/ctrl/x5yf/4.3.6.0/fun7.8.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>23b9a49772cb7b5f1c48a4ceb8d15ba3</MD5>
+				<MD5>e4dc2f2292e453c41374ffb398769ff4</MD5>
 				<Download>
-					<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.6.0/login7.7.dll</Url>
-					<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.6.0/login7.7.dll</Url>
-					<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.6.0/login7.7.dll</Url>
-					<Url>https://github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.6.0/login7.7.dll?raw=true</Url>
-					<Url>http://happyfool.net/ctrl/x5yf/4.3.6.0/login7.7.dll</Url>
+					<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.6.0/login7.8.dll</Url>
+					<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.6.0/login7.8.dll</Url>
+					<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.6.0/login7.8.dll</Url>
+					<Url>https://github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.6.0/login7.8.dll?raw=true</Url>
+					<Url>http://happyfool.net/ctrl/x5yf/4.3.6.0/login7.8.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>
