@@ -2,15 +2,15 @@
 
 <MLGB>
 	<Exe>
-		<Version ver="5.6">
+		<Version ver="5.7">
 			<Name>炫舞匠心</Name>
-			<MD5>ba81521b1001a86ce97c5fa0f539f7a9</MD5>
+			<MD5>0b248200eb71c176886dcbfe7973b511</MD5>
 			<Download>
-				<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/5.6.exe</Url>
-				<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/5.6.exe</Url>
-				<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/5.6.exe</Url>
-				<Url>https://github.com/mrzhengying/FarmHelperII/blob/master/demo/5.6.exe?raw=true</Url>
-				<Url>http://happyfool.net/ctrl/x5yf/5.6.exe</Url>
+				<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/5.7.exe</Url>
+				<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/5.7.exe</Url>
+				<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/5.7.exe</Url>
+				<Url>https://github.com/mrzhengying/FarmHelperII/blob/master/demo/5.7.exe?raw=true</Url>
+				<Url>http://happyfool.net/ctrl/x5yf/5.7.exe</Url>
 			</Download>
 			<Notes>
 			</Notes>
@@ -43,34 +43,34 @@
 			</Notes>
 		</Version>
 	</Dll>
-	<!--
-	<TestDll x5ver="4.3.6.0">
-		<Version ver="7.5">
+	
+	<TestDll x5ver="4.3.9.0">
+		<Version ver="8.0">
 			<FunDll>
-				<MD5>b32c689bc25821415b98ca5b4eafe9cd</MD5>
+				<MD5>f8208d0ca4b1e648fe1f16372f635568</MD5>
 				<Download>
-					<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.6.0/fun7.5.dll</Url>
-					<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.6.0/fun7.5.dll</Url>
-					<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.6.0/fun7.5.dll</Url>
-					<Url>https://github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.6.0/fun7.5.dll?raw=true</Url>
-					<Url>http://happyfool.net/ctrl/x5yf/4.3.6.0/fun7.5.dll</Url>
+					<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.9.0/fun8.0.dll</Url>
+					<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.9.0/fun8.0.dll</Url>
+					<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.9.0/fun8.0.dll</Url>
+					<Url>https://github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.9.0/fun8.0.dll?raw=true</Url>
+					<Url>http://happyfool.net/ctrl/x5yf/4.3.9.0/fun8.0.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>3ce5e47ea92f3e93da241c934c49aaab</MD5>
+				<MD5>bf88e84a0a6077e84a6bbaf5ef37126e</MD5>
 				<Download>
-					<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.6.0/login7.5.dll</Url>
-					<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.6.0/login7.5.dll</Url>
-					<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.6.0/login7.5.dll</Url>
-					<Url>https://github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.6.0/login7.5.dll?raw=true</Url>
-					<Url>http://happyfool.net/ctrl/x5yf/4.3.6.0/login7.5.dll</Url>
+					<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.9.0/login8.0.dll</Url>
+					<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.9.0/login8.0.dll</Url>
+					<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.9.0/login8.0.dll</Url>
+					<Url>https://github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.9.0/login8.0.dll?raw=true</Url>
+					<Url>http://happyfool.net/ctrl/x5yf/4.3.9.0/login8.0.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>
 			</Notes>
 		</Version>
 	</TestDll>
-	
+	<!--	
 	-->
 	<Data>
 		<File>
@@ -86,12 +86,12 @@
 		
 		<File>
 			<Name>fashionmap.txt</Name>
-			<MD5>27e240a7a4647555fe2e6a8ba25591c0</MD5>
+			<MD5>f92ffbb113230c0a069a9320743a6735</MD5>
 			<Download>
-				<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/data/fashionmap3.dat</Url>
-				<Url>http://happyfool.net/ctrl/x5yf/data/fashionmap3.dat</Url>
-				<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/fashionmap3.dat</Url>
-				<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/fashionmap3.dat</Url>
+				<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/data/fashionmap4.dat</Url>
+				<Url>http://happyfool.net/ctrl/x5yf/data/fashionmap4.dat</Url>
+				<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/fashionmap4.dat</Url>
+				<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/fashionmap4.dat</Url>
 			</Download>
 		</File>
 		
