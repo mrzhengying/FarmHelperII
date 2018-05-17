@@ -17,33 +17,33 @@
 		</Version>
 	</Exe>
 
-	<Dll x5ver="4.3.6.0">
-		<Version ver="7.9">
+	<Dll x5ver="4.4.0.0">
+		<Version ver="8.2">
 			<FunDll>
-				<MD5>662505bbe5fb349c4620830f3294d91e</MD5>
+				<MD5>0d145898bcac3b9946a7fe5b6491cf9d</MD5>
 				<Download>
-					<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.6.0/fun7.9.dll</Url>
-					<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.6.0/fun7.9.dll</Url>
-					<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.6.0/fun7.9.dll</Url>
-					<Url>https://github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.6.0/fun7.9.dll?raw=true</Url>
-					<Url>http://happyfool.net/ctrl/x5yf/4.3.6.0/fun7.9.dll</Url>
+					<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.4.0.0/fun8.2.dll</Url>
+					<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.4.0.0/fun8.2.dll</Url>
+					<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.4.0.0/fun8.2.dll</Url>
+					<Url>https://github.com/mrzhengying/FarmHelperII/blob/master/demo/4.4.0.0/fun8.2.dll?raw=true</Url>
+					<Url>http://happyfool.net/ctrl/x5yf/4.4.0.0/fun8.2.dll</Url>
 				</Download>
 			</FunDll>
 			<LoginDll>
-				<MD5>92bfd55bfdf77fde65a4958036faeed2</MD5>
+				<MD5>740307d8787a543dfff9dc6f7fb25804</MD5>
 				<Download>
-					<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.3.6.0/login7.9.dll</Url>
-					<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.6.0/login7.9.dll</Url>
-					<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.3.6.0/login7.9.dll</Url>
-					<Url>https://github.com/mrzhengying/FarmHelperII/blob/master/demo/4.3.6.0/login7.9.dll?raw=true</Url>
-					<Url>http://happyfool.net/ctrl/x5yf/4.3.6.0/login7.9.dll</Url>
+					<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/4.4.0.0/login8.2.dll</Url>
+					<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.4.0.0/login8.2.dll</Url>
+					<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/4.4.0.0/login8.2.dll</Url>
+					<Url>https://github.com/mrzhengying/FarmHelperII/blob/master/demo/4.4.0.0/login8.2.dll?raw=true</Url>
+					<Url>http://happyfool.net/ctrl/x5yf/4.4.0.0/login8.2.dll</Url>
 				</Download>
 			</LoginDll>
 			<Notes>
 			</Notes>
 		</Version>
 	</Dll>
-	
+	<!--
 	<TestDll x5ver="4.3.9.0">
 		<Version ver="8.1">
 			<FunDll>
@@ -70,7 +70,7 @@
 			</Notes>
 		</Version>
 	</TestDll>
-	<!--	
+		
 	-->
 	<Data>
 		<File>
@@ -130,12 +130,12 @@
 		
 		<File>
 			<Name>gameip.txt</Name>
-			<MD5>bddb7c3809bddbbdc29ee91ee3afe463</MD5>
+			<MD5>3a393402e5492331c42aee195170ccbf</MD5>
 			<Download>
-				<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/data/gameip9.dat</Url>
-				<Url>http://happyfool.net/ctrl/x5yf/data/gameip9.dat</Url>
-				<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip9.dat</Url>
-				<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip9.dat</Url>
+				<Url>https://gitee.com/mrzhengying/FarmHelperII/raw/master/demo/data/gameip10.dat</Url>
+				<Url>http://happyfool.net/ctrl/x5yf/data/gameip10.dat</Url>
+				<Url>https://netix.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip10.dat</Url>
+				<Url>https://excellmedia.dl.sourceforge.net/project/farmhelper/public/x5pkq/data/gameip10.dat</Url>
 			</Download>
 		</File>
 		
